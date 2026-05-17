@@ -1,0 +1,3 @@
+# ninja log v6
+0	15226	1764747877047939026	/home/srand/Swin-Transformer/WiSwin/window_process/build/temp.linux-x86_64-cpython-310/swin_window_process.o	a055f050bab815c9
+1	44004	1764747877047939026	/home/srand/Swin-Transformer/WiSwin/window_process/build/temp.linux-x86_64-cpython-310/swin_window_process_kernel.o	ef7eb1324b9eb18e

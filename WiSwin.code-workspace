@@ -1,0 +1,22 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "window_process"
+		}
+	],
+    "settings": {
+        "terminal.integrated.profiles.windows": {
+            "VS2022 x64": {
+                "path": "cmd.exe",
+                "args": [
+                    "/k",
+                    "\"D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/VsDevCmd.bat\" -arch=amd64"
+                ]
+            }
+        },
+        "terminal.integrated.defaultProfile.windows": "VS2022 x64"
+    }
+}
