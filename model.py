@@ -12,6 +12,7 @@ class WiSwin(nn.Module):
             window_size=5)
         #self.layer_norm = nn.LayerNorm([20,20])
        
+       
 
         self.mlp=nn.Sequential(
             nn.Linear(128,128),
